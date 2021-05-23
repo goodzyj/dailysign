@@ -61,8 +61,8 @@
   ],
   "MUSIC163_ACCOUNT_LIST": [
     {
-      "music163_phone": "18888xxxxxx",
-      "music163_password": "Sitoi"
+      "music163_phone": "15072042005",
+      "music163_password": "15072042005..."
     },
     {
       "music163_phone": "多账号 手机号",
@@ -71,7 +71,7 @@
   ],
   "ONEPLUSBBS_COOKIE_LIST": [
     {
-      "oneplusbbs_cookie": "acw_tc=xxxxxx; qKc3_0e8d_saltkey=xxxxxx; qKc3_0e8d_lastvisit=xxxxxx; bbs_avatar=xxxxxx; qKc3_0e8d_sendmail=xxxxxx; opcid=xxxxxx; opcct=xxxxxx; oppt=xxxxxx; opsid=xxxxxx; opsct=xxxxxx; opbct=xxxxxx; UM_distinctid=xxxxxx; CNZZDATA1277373783=xxxxxx; www_clear=xxxxxx; ONEPLUSID=xxxxxx; qKc3_0e8d_sid=xxxxxx; bbs_uid=xxxxxx; bbs_uname=xxxxxx; bbs_grouptitle=xxxxxx; opuserid=xxxxxx; bbs_sign=xxxxxx; bbs_formhash=xxxxxx; qKc3_0e8d_ulastactivity=xxxxxx; opsertime=xxxxxx; qKc3_0e8d_lastact=xxxxxx; qKc3_0e8d_checkpm=xxxxxx; qKc3_0e8d_noticeTitle=xxxxxx; optime_browser=xxxxxx; opnt=xxxxxx; opstep=xxxxxx; opstep_event=xxxxxx; fp=xxxxxx;"
+      "opcid=1615467721021_1159454368; opcct=1615467721021; UM_distinctid=1782161324391e-0c37079dfd8154-53e356a-1fa400-17821613244ad4; www_clear=1; qKc3_0e8d_smile=1D1; qKc3_0e8d_ulastactivity=6dd180G3tr5uujl%2BxvbTrOAfw6%2F21vny491xuSVNHVrdnAAUnENM; acw_tc=2f6a1fb016217623658916002e28e71ab02fbde98c95e0d3ecf2f8fc14525d; oppt=oneplus; opsid=1621762366958_1964481922; opsct=1621762366958; opbct=1621762366958; fp=a6d9f4b774f4055d3ff924955833ba38; qKc3_0e8d_saltkey=Rn06CQp6; qKc3_0e8d_lastvisit=1621758767; ONEPLUSID=HT_y5CPjY4_jQwLmuax2nS2LoklHRfyBxWUxhibj7IXLyAy9e3ZMwEqfFxvX8UPB9rYeErESO2t4o4RcedXZKJbSpDMu71WISn2O0Tf7dt9KNY4qkHbQfWltw; qKc3_0e8d_sid=qA6m09; bbs_uid=2800527; bbs_uname=%E5%B0%8F%E7%99%BDj; bbs_avatar=https%3A%2F%2Fimage01.oneplus.cn%2Fuser%2F202004%2F30%2F734%2F703ed458a341da56241170a4a64a7be7.jpg; bbs_grouptitle=%E6%9F%B4%E6%B2%B9; opuserid=7169942; bbs_sign=unsigned; bbs_formhash=459cd4b6; qKc3_0e8d_lastact=1621762386%09home.php%09misc; qKc3_0e8d_sendmail=1; optime_browser=1621762387310; opnt=1621762387310; opstep=2; opstep_event=0; CNZZDATA1277373783=137298293-1615463322-https%253A%252F%252Fwww.baidu.com%252F%7C1621759366"
     },
     {
       "oneplusbbs_cookie": "多账号 cookie 填写，请参考上面，cookie 以实际获取为准（遇到特殊字符如双引号\" 请加反斜杠转义）"
